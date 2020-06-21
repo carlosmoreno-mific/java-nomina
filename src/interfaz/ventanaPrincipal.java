@@ -213,9 +213,9 @@ public class ventanaPrincipal extends javax.swing.JFrame {
 
         panelPie.setBackground(new java.awt.Color(123, 42, 116));
 
-        jLabel4.setFont(new java.awt.Font("Arial", 0, 12)); // NOI18N
+        jLabel4.setFont(new java.awt.Font("Fira Code Regular", 0, 12)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel4.setText("Todos los derechos reservados ©");
+        jLabel4.setText("Todos los derechos reservados © -> Elaborado por: Carlos G. Moreno");
         panelPie.add(jLabel4);
 
         getContentPane().add(panelPie, java.awt.BorderLayout.PAGE_END);
